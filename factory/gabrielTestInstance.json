@@ -1,0 +1,9 @@
+{
+	"name": "gabrielTestInstance",
+	"location": "canadaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7a20bca3-6810-4da9-92f3-695067339d3c",
+		"tenantId": "d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e"
+	}
+}
