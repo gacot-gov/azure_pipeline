@@ -1,0 +1,16 @@
+{
+	"name": "SourceDataset_gyn",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "MySQLDBLinkedService",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": "Test_user"
+		}
+	}
+}
